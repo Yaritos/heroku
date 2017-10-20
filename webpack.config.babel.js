@@ -2,7 +2,7 @@ import ExtractTextPlugin from 'extract-text-webpack-plugin';
 
 export default {
   "entry": [
-    "my.scss"
+    "./style/my.scss"
   ],
   output: {
     filename: './.temp/bundle.js'

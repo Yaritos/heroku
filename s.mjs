@@ -16,4 +16,4 @@ const PORT=4321,
       }
 ;
 
-.get('/author', r=>r.res.set(CORS).send('Слепухин Ярослав'))
+.get('/author', r=>r.res.set(CORS).send('Слепухин Ярослав'));
