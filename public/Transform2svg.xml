@@ -4,7 +4,7 @@
   <!ATTLIST xsl:stylesheet
     id ID #REQUIRED>
 ]>
-  <!-- Autor Slepukhin Yaroslav  -->
+  <!-- Author Slepukhin Yaroslav -->
 <root>
   <xsl:stylesheet version="1.0" id="sheet" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:template match="xsl:stylesheet" />
