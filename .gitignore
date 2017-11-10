@@ -2,3 +2,5 @@
 *.lock
 *.txt
 .gitignore
+webpack.config.babel.js
+.babelrc
